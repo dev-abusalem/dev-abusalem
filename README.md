@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is abu salem and I'm a full stack developer (MERN) from  Rajshahi , Bangladesh</h2>
+<h2 align="left">Hi 👋! My name is Abu salem and I'm a Full stack developer (MERN) from  Rajshahi , Bangladesh</h2>
 
 ###
 
