@@ -2,8 +2,6 @@
   <img height="450" src="https://w0.peakpx.com/wallpaper/95/247/HD-wallpaper-web-development-minimalism-computer-minimalism-web-developer.jpg"  />
 </div>
 
-###
-
 <h2 align="left">Hi 👋! My name is abu salem and I'm a full stack developer (MERN) from  Rajshahi , Bangladesh</h2>
 
 ###
@@ -84,10 +82,6 @@
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
 
 ###
 
